@@ -1,6 +1,6 @@
 # Hello, I'm Abdelrahman Hussain 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in software development and data analysis.
+Welcome to my GitHub profile! I'm a passionate developer with interests in data engineering and software development.
 
 ## About Me
 
